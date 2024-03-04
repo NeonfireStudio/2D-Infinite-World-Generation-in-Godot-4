@@ -1,4 +1,4 @@
-2D Infinite World Generation in Godot 4
+## 2D Infinite World Generation in Godot 4
 
 Here you can finds 3 types of biomes:
 - Grass with trees
